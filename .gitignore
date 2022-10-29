@@ -5,3 +5,4 @@ data/
 docs/
 test/
 notebooks/
+*.DS_Store
